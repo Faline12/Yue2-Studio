@@ -11,8 +11,8 @@ Get the latest installer from [Releases](../../releases).
 
 | Computer | File | How to install |
 | --- | --- | --- |
-| Windows 64-bit | `Yue2 Studio Setup 0.1.0.exe` | Run the setup and follow the steps |
-| Mac with Apple silicon | `Yue2 Studio-0.1.0-arm64.dmg` | Open the disk image and move Yue2 Studio to Applications |
+| Windows 64-bit | `Yue2 Studio Setup.exe` | Run the setup and follow the steps |
+| Mac with Apple silicon | `Yue2 Studio.dmg` | Open the disk image and move Yue2 Studio to Applications |
 
 The Windows app is unsigned, so SmartScreen may warn you. Choose **More info**, then **Run anyway**.
 
